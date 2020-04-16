@@ -38,7 +38,7 @@ namespace DataProcessor
                     inputFileWatcher.Filter = "*.*";
 
                     // inputFileWatcher.NotifyFilter = NotifyFilters.LastWrite; // events only when written
-                    inputFileWatcher.NotifyFilter = NotifyFilters.FileName; // events only when written
+                    inputFileWatcher.NotifyFilter = NotifyFilters.FileName | NotifyFilters.LastWrite; // events only when written
 
                     // Events handler methods
                     inputFileWatcher.Created += FileCreated;
