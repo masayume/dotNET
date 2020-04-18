@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "vdkqSfM56lKnJr5a0CYm0XD0GtMW1QclwYA6KFEKsK5rmWOqO8hp1YwjyUzapd0o1eOr82kG7ayh1G+kKqlwqg==",
+  "dgSpecHash": "XIo+P368JB7K3QjF+xrUyzVx0+eb6l003xZMMUuYN1OOQsyv9mP7AXHcl3u9+dPhkAL6Fp0cbIIXotE/kOQEuw==",
   "success": true,
   "projectFilePath": "/home/masayume/DATA/E/Temp/demon/unity/dotNET/02-files/02-files.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/masayume/.nuget/packages/microsoft.netcore.platforms/5.0.0-preview.2.20160.6/microsoft.netcore.platforms.5.0.0-preview.2.20160.6.nupkg.sha512",
+    "/home/masayume/.nuget/packages/microsoft.win32.systemevents/5.0.0-preview.2.20160.6/microsoft.win32.systemevents.5.0.0-preview.2.20160.6.nupkg.sha512",
+    "/home/masayume/.nuget/packages/system.configuration.configurationmanager/5.0.0-preview.2.20160.6/system.configuration.configurationmanager.5.0.0-preview.2.20160.6.nupkg.sha512",
+    "/home/masayume/.nuget/packages/system.drawing.common/5.0.0-preview.2.20160.6/system.drawing.common.5.0.0-preview.2.20160.6.nupkg.sha512",
+    "/home/masayume/.nuget/packages/system.runtime.caching/5.0.0-preview.2.20160.6/system.runtime.caching.5.0.0-preview.2.20160.6.nupkg.sha512",
+    "/home/masayume/.nuget/packages/system.security.accesscontrol/5.0.0-preview.2.20160.6/system.security.accesscontrol.5.0.0-preview.2.20160.6.nupkg.sha512",
+    "/home/masayume/.nuget/packages/system.security.cryptography.protecteddata/5.0.0-preview.2.20160.6/system.security.cryptography.protecteddata.5.0.0-preview.2.20160.6.nupkg.sha512",
+    "/home/masayume/.nuget/packages/system.security.permissions/5.0.0-preview.2.20160.6/system.security.permissions.5.0.0-preview.2.20160.6.nupkg.sha512",
+    "/home/masayume/.nuget/packages/system.security.principal.windows/5.0.0-preview.2.20160.6/system.security.principal.windows.5.0.0-preview.2.20160.6.nupkg.sha512",
+    "/home/masayume/.nuget/packages/system.windows.extensions/5.0.0-preview.2.20160.6/system.windows.extensions.5.0.0-preview.2.20160.6.nupkg.sha512"
+  ],
   "logs": []
 }
