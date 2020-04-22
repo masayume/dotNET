@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Ccr00eKgjZpmbzHXYdSVO84mgrImLYdYN1PLn1lYmMtP8aXgHrz/2sXJllNpHCx+QeJeaaf1wnRrsbyNlBcx4Q==",
+  "dgSpecHash": "4hU1g1zTrIhbkepcgznD7a23rheRmzl5k5UYl4YQEhRsMmhVL/H8ZCUj+Ran6oUZDdF4Xq2DNPhaMNkxmTCisw==",
   "success": true,
   "projectFilePath": "/home/masayume/DATA/E/Temp/demon/unity/dotNET/05-files/05-files.csproj",
   "expectedPackageFiles": [
+    "/home/masayume/.nuget/packages/csvhelper/15.0.5/csvhelper.15.0.5.nupkg.sha512",
+    "/home/masayume/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/home/masayume/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "/home/masayume/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "/home/masayume/.nuget/packages/system.configuration.configurationmanager/4.7.0/system.configuration.configurationmanager.4.7.0.nupkg.sha512",

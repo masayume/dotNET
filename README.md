@@ -19,3 +19,5 @@ csc -t:exe -define:DEBUG -out:files.exe FileProgram.cs FileProcessor.cs
  dotnet restore
  4 - add reference at build time: -reference:System.Runtime.Caching.dll
  csc -t:exe -define:DEBUG -reference:System.Runtime.Caching.dll -out:files.exe FileProgram.cs FileProcessor.cs
+
+ csc -t:exe -define:DEBUG -r:System.Runtime.Caching.dll -out:files.exe FileProgram.cs FileProcessor.cs

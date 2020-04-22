@@ -36,6 +36,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[15.0.5, )"
+            },
+            "CvsHelper": {
+              "target": "Package",
+              "version": "[*, )"
+            },
             "System.Runtime.Caching": {
               "target": "Package",
               "version": "[4.7.0, )"
