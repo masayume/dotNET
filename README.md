@@ -10,6 +10,11 @@ dotnet new console -o 01-files
 csc -t:exe -define:DEBUG -out:files.exe FileProgram.cs FileProcessor.cs
 
 ## install references
+
+example:
+dotnet add package CvsHelper.json
+
+
  to install System.Runtime.Caching 
  1 - install Nuget Package Manager
    CTRL+P -> ext install jmrog.vscode-nuget-package-manager
