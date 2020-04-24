@@ -26,3 +26,6 @@ dotnet add package CvsHelper.json
  csc -t:exe -define:DEBUG -reference:System.Runtime.Caching.dll -out:files.exe FileProgram.cs FileProcessor.cs
 
  csc -t:exe -define:DEBUG -r:System.Runtime.Caching.dll -out:files.exe FileProgram.cs FileProcessor.cs
+
+ csc -t:exe -define:DEBUG -r:<FULL_PATH>library.dll -out:files.exe FileProgram.cs FileProcessor.cs
+
