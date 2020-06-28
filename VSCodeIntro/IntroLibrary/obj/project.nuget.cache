@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xY33+ylVP2YzD7wgQrH9NLWwxCOpMd19vXglIyH6M+HlsPbfnly/8eEw08/obEe7kWtjaZD+k/CnngReo6qEgQ==",
+  "success": true,
+  "projectFilePath": "/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroLibrary/IntroLibrary.csproj",
+  "expectedPackageFiles": [
+    "/home/masayume/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/masayume/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
