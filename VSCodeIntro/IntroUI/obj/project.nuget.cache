@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "uYpGzpTUczdpI7IUrWKZFDmgjOqCSiQSSh+UAR7lNR9lv9X0blKQ3nH6//qCJkCYNnxx/tYlWwWTi/bcFNRjpg==",
+  "dgSpecHash": "zFuBiMHQFnK7cxFtizvJ+MwyyNTObq41r5wru/FNdXtNa1PNnvVCmHEd1GVZemddvUP4HyyZJiRm30J6Wa2gIA==",
   "success": true,
   "projectFilePath": "/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroUI/IntroUI.csproj",
   "expectedPackageFiles": [
     "/home/masayume/.nuget/packages/dapper/2.0.35/dapper.2.0.35.nupkg.sha512",
+    "/home/masayume/.nuget/packages/serilog/2.9.0/serilog.2.9.0.nupkg.sha512",
     "/home/masayume/.nuget/packages/system.reflection.emit.lightweight/4.7.0/system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
   ],
   "logs": []
