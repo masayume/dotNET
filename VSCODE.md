@@ -1,6 +1,8 @@
 # Setup VSCODE for C# Developers
 
-from [Intro to VSCODE for C# Developers](https://www.youtube.com/watch?v=r5dtl9Uq9V0)
+- from [Intro to VSCODE for C# Developers](https://www.youtube.com/watch?v=r5dtl9Uq9V0)
+- [Tim Corey C# - Getting Started with C#](https://www.youtube.com/watch?v=h7aIzCkmbl8&list=PLLWMQd6PeGY2GVsQZ-u3DPXqwwKW8MkiP)
+- [DRY principle](https://www.youtube.com/watch?v=dhnsegiPXoo&list=PLLWMQd6PeGY2GVsQZ-u3DPXqwwKW8MkiP&index=10)
 
 ## Recommended Extensions
 
