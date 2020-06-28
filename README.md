@@ -14,7 +14,7 @@ csc -t:exe -define:DEBUG -out:files.exe FileProgram.cs FileProcessor.cs
 example:
 dotnet add package CvsHelper.json
 
-
+```
  to install System.Runtime.Caching 
  1 - install Nuget Package Manager
    CTRL+P -> ext install jmrog.vscode-nuget-package-manager
@@ -28,7 +28,7 @@ dotnet add package CvsHelper.json
  csc -t:exe -define:DEBUG -r:System.Runtime.Caching.dll -out:files.exe FileProgram.cs FileProcessor.cs
 
  csc -t:exe -define:DEBUG -r:<FULL_PATH>library.dll -out:files.exe FileProgram.cs FileProcessor.cs
-
+```
 ## resources
 
 * [intro to VSCode for C# Developers](https://www.youtube.com/watch?v=r5dtl9Uq9V0)
