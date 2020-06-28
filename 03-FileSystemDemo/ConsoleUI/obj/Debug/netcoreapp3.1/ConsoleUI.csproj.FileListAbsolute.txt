@@ -1,0 +1,13 @@
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/03-FileSystemDemo/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/03-FileSystemDemo/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.deps.json
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/03-FileSystemDemo/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.runtimeconfig.json
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/03-FileSystemDemo/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.runtimeconfig.dev.json
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/03-FileSystemDemo/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.dll
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/03-FileSystemDemo/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.pdb
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/03-FileSystemDemo/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.csprojAssemblyReference.cache
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/03-FileSystemDemo/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.AssemblyInfoInputs.cache
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/03-FileSystemDemo/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.AssemblyInfo.cs
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/03-FileSystemDemo/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.csproj.CoreCompileInputs.cache
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/03-FileSystemDemo/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.dll
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/03-FileSystemDemo/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.pdb
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/03-FileSystemDemo/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.genruntimeconfig.cache

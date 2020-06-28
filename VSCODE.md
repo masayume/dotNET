@@ -3,6 +3,7 @@
 - from [Intro to VSCODE for C# Developers](https://www.youtube.com/watch?v=r5dtl9Uq9V0)
 - [Tim Corey C# - Getting Started with C#](https://www.youtube.com/watch?v=h7aIzCkmbl8&list=PLLWMQd6PeGY2GVsQZ-u3DPXqwwKW8MkiP)
 - [DRY principle](https://www.youtube.com/watch?v=dhnsegiPXoo&list=PLLWMQd6PeGY2GVsQZ-u3DPXqwwKW8MkiP&index=10)
+- [Working With The File System in C# - Managing Folders and Files](https://www.youtube.com/watch?v=9mUuJIKq40M&list=PLLWMQd6PeGY2GVsQZ-u3DPXqwwKW8MkiP&index=11)
 
 ## Recommended Extensions
 
@@ -74,8 +75,11 @@ dotnet add package Serilog
 
 ```
 
+### search nuget packages
+* [nuget packages](https://www.nuget.org/packages/)
 
-
+### libraries
+* [NAudio is an open source .NET audio library](https://github.com/naudio/Naudio)
 
 ## Debug
 
