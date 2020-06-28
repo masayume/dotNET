@@ -1,0 +1,16 @@
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroUI/bin/Debug/netcoreapp3.1/IntroUI
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroUI/bin/Debug/netcoreapp3.1/IntroUI.deps.json
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroUI/bin/Debug/netcoreapp3.1/IntroUI.runtimeconfig.json
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroUI/bin/Debug/netcoreapp3.1/IntroUI.runtimeconfig.dev.json
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroUI/bin/Debug/netcoreapp3.1/IntroUI.dll
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroUI/bin/Debug/netcoreapp3.1/IntroUI.pdb
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroUI/bin/Debug/netcoreapp3.1/IntroLibrary.dll
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroUI/bin/Debug/netcoreapp3.1/IntroLibrary.pdb
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroUI/obj/Debug/netcoreapp3.1/IntroUI.csprojAssemblyReference.cache
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroUI/obj/Debug/netcoreapp3.1/IntroUI.AssemblyInfoInputs.cache
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroUI/obj/Debug/netcoreapp3.1/IntroUI.AssemblyInfo.cs
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroUI/obj/Debug/netcoreapp3.1/IntroUI.csproj.CoreCompileInputs.cache
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroUI/obj/Debug/netcoreapp3.1/IntroUI.csproj.CopyComplete
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroUI/obj/Debug/netcoreapp3.1/IntroUI.dll
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroUI/obj/Debug/netcoreapp3.1/IntroUI.pdb
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroUI/obj/Debug/netcoreapp3.1/IntroUI.genruntimeconfig.cache

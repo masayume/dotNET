@@ -1,0 +1,9 @@
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroLibrary/bin/Debug/netstandard2.0/IntroLibrary.deps.json
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroLibrary/bin/Debug/netstandard2.0/IntroLibrary.dll
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroLibrary/bin/Debug/netstandard2.0/IntroLibrary.pdb
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroLibrary/obj/Debug/netstandard2.0/IntroLibrary.csprojAssemblyReference.cache
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroLibrary/obj/Debug/netstandard2.0/IntroLibrary.AssemblyInfoInputs.cache
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroLibrary/obj/Debug/netstandard2.0/IntroLibrary.AssemblyInfo.cs
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroLibrary/obj/Debug/netstandard2.0/IntroLibrary.csproj.CoreCompileInputs.cache
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroLibrary/obj/Debug/netstandard2.0/IntroLibrary.dll
+/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroLibrary/obj/Debug/netstandard2.0/IntroLibrary.pdb

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "jnvZYeaT7INxChIXlZ5D3YFZBHwW3jEZul9Ad8BXtl4tk2puA4IkSl9QJC/1wbvrNTIM4mZzylDkiZV51Fy5Xg==",
+  "dgSpecHash": "uYpGzpTUczdpI7IUrWKZFDmgjOqCSiQSSh+UAR7lNR9lv9X0blKQ3nH6//qCJkCYNnxx/tYlWwWTi/bcFNRjpg==",
   "success": true,
   "projectFilePath": "/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroUI/IntroUI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/masayume/.nuget/packages/dapper/2.0.35/dapper.2.0.35.nupkg.sha512",
+    "/home/masayume/.nuget/packages/system.reflection.emit.lightweight/4.7.0/system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

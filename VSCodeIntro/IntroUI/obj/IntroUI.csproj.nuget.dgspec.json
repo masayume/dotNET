@@ -4,6 +4,63 @@
     "/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroUI/IntroUI.csproj": {}
   },
   "projects": {
+    "/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroLibrary/IntroLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroLibrary/IntroLibrary.csproj",
+        "projectName": "IntroLibrary",
+        "projectPath": "/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroLibrary/IntroLibrary.csproj",
+        "packagesPath": "/home/masayume/.nuget/packages/",
+        "outputPath": "/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/masayume/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroUI/IntroUI.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -24,7 +81,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroLibrary/IntroLibrary.csproj": {
+                "projectPath": "/home/masayume/DATA/E/Temp/demon/unity/dotNET/VSCodeIntro/IntroLibrary/IntroLibrary.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -35,6 +96,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
