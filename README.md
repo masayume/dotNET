@@ -29,7 +29,9 @@ dotnet add package CvsHelper.json
 
  csc -t:exe -define:DEBUG -r:<FULL_PATH>library.dll -out:files.exe FileProgram.cs FileProcessor.cs
 ```
-## resources
+## Resources
 
 * [intro to VSCode for C# Developers](https://www.youtube.com/watch?v=r5dtl9Uq9V0)
+* [15 C# Project Ideas: Beginner to Expert [With tutorial]](https://dev.to/nerdjfpb/15-c-project-ideas-beginner-to-expert-with-tutorial-iio)
+
 
