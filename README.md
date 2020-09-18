@@ -33,5 +33,8 @@ dotnet add package CvsHelper.json
 
 * [intro to VSCode for C# Developers](https://www.youtube.com/watch?v=r5dtl9Uq9V0)
 * [15 C# Project Ideas: Beginner to Expert [With tutorial]](https://dev.to/nerdjfpb/15-c-project-ideas-beginner-to-expert-with-tutorial-iio)
+* [C# developer - Build types](https://dev.to/samfieldscc/things-you-need-to-know-as-a-c-developer-build-types-2igl)
+* [C# developer - Collections](https://dev.to/samfieldscc/things-you-need-to-know-as-a-c-developer-collections-md6)
+
 
 
