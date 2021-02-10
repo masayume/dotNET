@@ -4,8 +4,19 @@
 * [access local app after startup](http://localhost:5000)
 * [dotnet subreddit](https://www.reddit.com/r/dotnet/)
 
+## create new app
+
+```
+dotnet new blazorserver -o BlazorApp --no-https
+
+cd BlazorWasm
+dotnet new blazorwasm --name BlazorWasm --output .
+```
+
 ## startup app
 ```
+dotnet run
+
 dotnet watch run
 ```
 
